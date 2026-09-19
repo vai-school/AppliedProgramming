@@ -6,15 +6,14 @@ Add a description of your project here.
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. used print function
+2. add whatever in quotations
+
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Press Run Button on top right
+
 
 ## Development Environment
 
