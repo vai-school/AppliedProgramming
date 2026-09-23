@@ -1,4 +1,4 @@
-# Hello WOrld
+# Hello World
 
 Prints 'Hello World'
 
