@@ -1,6 +1,6 @@
-# Project Title (Update)
+# Hello WOrld
 
-Add a description of your project here.
+Prints 'Hello World'
 
 ## Instructions for Build and Use
 
